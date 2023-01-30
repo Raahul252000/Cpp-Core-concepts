@@ -1,2 +1,2 @@
-# C-Core-concepts
+# Cpp-Core-concepts
 This Repository contains code based on core concepts of C++. 
